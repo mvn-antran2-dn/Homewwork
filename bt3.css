@@ -31,7 +31,7 @@ span::first-line {
 }
 
 span::first-letter {
-    font-size: xx-large;
+    font-size: 15px;
 }
 
 span::before {
